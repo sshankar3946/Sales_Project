@@ -34,6 +34,14 @@ The primary goal of this project is to:
 	•	Reporting and Storytelling using data
 	•	Git/GitHub for version control and portfolio building
 
+# <ins> PROJECT STRUCTURE </ins>
+
+|-- data/                     # Raw data transformed to clean data
+|-- python_code               # Main script for loading, cleaning, and processing data
+|-- sql_queries/              # SQL script
+|-- notebooks/                # Jupyter notebooks for Python analysis
+|-- README.md                 # Project documentation
+
 # <ins> INFO </ins>
 
 Shiv Shankar
