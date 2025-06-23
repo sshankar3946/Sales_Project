@@ -2,7 +2,7 @@
 
 This project explores and analyzes sales data from a multi-branch retail business to extract insights related to customer behavior, profitability, operational efficiency, and payment trends.
 
-Using SQL and Excel/Power BI (or Python), I solved 10 real-world business problems that could support decision-making in marketing, sales optimization, and branch performance tracking.
+Using SQL, Python and Excel, I solved 10 real-world business problems that could support decision-making in marketing, sales optimization, and branch performance tracking.
 
 # <ins> OBJECTIVES </ins>
 
