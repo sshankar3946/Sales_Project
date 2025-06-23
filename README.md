@@ -25,17 +25,6 @@ The primary goal of this project is to:
 	9.	Category-Wise Profitability – Compute and sort total profit for each category in descending order.
 	10.	Revenue Drop Analysis – Identify 5 branches with the highest decrease in revenue in 2023 compared to 2022.
 
-# <ins> PROJECT STRUCTURE </ins>
-
-sales-analytics-project/
-├── raw_data/
-│   └── sales_data.csv
-├── data_cleaning/
-│   └── sales_project.ipynb
-├── queries/
-│   └── sales_project.sql
-├── README.md
-
 # <ins> KEY SKILLS DEMONSTRATED </ins>
 
 	•	SQL CTEs, Aggregations, Window Functions
