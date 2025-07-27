@@ -36,10 +36,10 @@ The primary goal of this project is to:
 
 # <ins> PROJECT STRUCTURE </ins>
 
-|-- data/                     # Raw data transformed to clean data  
+|-- data                      # Raw data transformed to clean data  
 |-- python_code               # Main script for loading, cleaning, and processing data  
-|-- sql_queries/              # SQL script  
-|-- notebooks/                # Jupyter notebooks for Python analysis  
+|-- sql_queries               # SQL script  
+|-- notebooks                 # Jupyter notebooks for Python analysis  
 |-- README.md                 # Project documentation  
 
 # <ins> INFO </ins>
