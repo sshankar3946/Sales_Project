@@ -7,10 +7,10 @@ Using SQL, Python and Excel, I solved 10 real-world business problems that could
 # <ins> OBJECTIVES </ins>
 
 The primary goal of this project is to:
-	•	Demonstrate data cleaning, querying, and analytical reasoning
-	•	Perform branch- and category-level analysis
-	•	Identify customer patterns and business opportunities
-	•	Build job-relevant skills in SQL, Python, and reporting
+	•	Demonstrate data cleaning, querying, and analytical reasoning  
+	•	Perform branch- and category-level analysis  
+	•	Identify customer patterns and business opportunities  
+	•	Build job-relevant skills in SQL, Python, and reporting  
 
 # <ins> BUSINESS PROBLEMS SOLVED </ins>
 
